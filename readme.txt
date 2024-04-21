@@ -18,3 +18,5 @@ cliper.py - Создание аудиофайлов с отдельными ре
 classifier.py - модель вербальной оценки 
 audio_to_text.py - модель преобразования аудио в текст
 semantic.py - модель сематической оценки речи
+( коммит поздно потому что очень долго грузилось) 
+Основные файлы:https://drive.google.com/file/d/10uHFqvuAMRtZxjBkq2RBmiuVvV-0dnjL/view?usp=drivesdk
